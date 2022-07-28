@@ -1,4 +1,4 @@
-name: Jacky Zhao
+name: Ivan Leo
 enableToc: true
 openToc: false
 enableLinkPreview: true
@@ -10,14 +10,11 @@ enableFooter: true
 enableContextualBacklinks: true
 enableRecentNotes: false
 enableGitHubEdit: false
-GitHubLink: https://github.com/jackyzha0/quartz/tree/hugo/content
-description:
-  Host your second brain and digital garden for free. Quartz features extremely fast full-text search,
-  Wikilink support, backlinks, local graph, tags, and link previews.
-page_title:
-  "🪴 Quartz 3.2"
+GitHubLink: https://github.com/ivanleomk/digital-garden
+description: Building a second brain by Learning in Public
+page_title: "Ivan's Digital Garden"
 links:
   - link_name: Twitter
-    link: https://twitter.com/_jzhao
+    link: https://twitter.com/ivanleomk
   - link_name: Github
-    link: https://github.com/jackyzha0
+    link: https://github.com/ivanleomk
