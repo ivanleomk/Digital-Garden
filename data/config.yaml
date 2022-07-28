@@ -11,8 +11,8 @@ enableContextualBacklinks: true
 enableRecentNotes: false
 enableGitHubEdit: false
 GitHubLink: https://github.com/ivanleomk/digital-garden
-description: Building a second brain by Learning in Public
-page_title: "Ivan's Digital Garden"
+description: Building a second brain in public
+page_title: "🪴 Quartz 3.2"
 links:
   - link_name: Twitter
     link: https://twitter.com/ivanleomk
